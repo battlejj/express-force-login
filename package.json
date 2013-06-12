@@ -1,0 +1,21 @@
+{
+  "name": "express-force-login",
+  "version": "0.0.0",
+  "description": "ExpressJS middleware to force a user to login. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/battlejj/express-force-login.git"
+  },
+  "keywords": [
+    "expressjs",
+    "express",
+    "login",
+    "middleware"
+  ],
+  "author": "Jeremy Battle",
+  "license": "BSD"
+}
